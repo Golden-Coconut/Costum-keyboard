@@ -17,4 +17,4 @@ It took me about 2h
 Today I finished the pcb and startet withe the journal.
 I made finishing touches like adding a groundplate fore better looks and conecting the traces so they look better
 <img width="1180" height="728" alt="Screenshot 2026-11-17 092144" src="https://github.com/user-attachments/assets/4f69eec0-0f0c-4e65-ba0e-081f8e13e04e" />
-I had alittle break and helped my frined with his keyboard a little so THE journal will not be to detailed. Sorry
+I had alittle break.I helped my frined a little with his keyboard so the journal will not be to detailed. Sorry.
